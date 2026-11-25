@@ -1,0 +1,2 @@
+# Demo PDFs must keep exact bytes (no line-ending conversion)
+*.pdf binary

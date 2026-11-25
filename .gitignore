@@ -1,0 +1,12 @@
+# runtime data: SQLite database, Chroma index
+data/
+# secrets
+.env
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+# uploaded files (never stored on disk by the app, but ignore just in case)
+uploads/
